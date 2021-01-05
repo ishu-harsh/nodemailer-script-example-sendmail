@@ -1,0 +1,1 @@
+# nodemailer-script-example-sendmail
